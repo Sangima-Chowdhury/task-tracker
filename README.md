@@ -2,11 +2,12 @@
 
 This is a simple web app I built using Python and Flask while learning backend development.
 
-The app lets you add tasks and delete them, and it saves everything so your list stays even after restarting.
+The app lets you add tasks, mark them as complete, delete them, and it saves everything so your list stays even after restarting.
 
 ## Features
 
 - Add new tasks
+- Mark tasks as complete
 - Delete tasks
 - Tasks are saved to a file
 
