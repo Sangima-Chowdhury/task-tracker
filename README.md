@@ -25,6 +25,4 @@ I built this project to practice Python and understand how web apps work using F
 It helped me learn how to handle user input, routes, and saving data.
 
 
-## GitHub
-https://github.com/Sangima-Chowdhury/task-tracker
 
