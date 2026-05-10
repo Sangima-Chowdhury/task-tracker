@@ -1,4 +1,4 @@
-## Task Tracker
+# Task Tracker
 
 A simple Flask-based task tracking web app that allows users to add and delete tasks.
 
